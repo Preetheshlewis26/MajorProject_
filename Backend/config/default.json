@@ -1,4 +1,4 @@
 {
-  "mongoURI": "",
+  "mongoURI": "mongodb+srv://preethesh26:pjlewis2610@fitnessapp.tzfa1.mongodb.net/?retryWrites=true&w=majority&appName=fitnessapp",
   "jwtSecret": "295Major"
 }
